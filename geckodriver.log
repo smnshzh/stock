@@ -1,0 +1,374 @@
+1596316251371	geckodriver	INFO	Listening on 127.0.0.1:49903
+1596316254406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofilewRJ3vg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+[Parent 10852, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596316307672	Marionette	INFO	Listening on port 49918
+1596316308164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 306: TypeError: this._builder is undefined
+1596316438179	Marionette	INFO	Stopped listening on port 49918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5303: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596316435499	Marionette	INFO	Listening on port 50123
+1596316435916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1596316526936	Marionette	INFO	Stopped listening on port 50123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596316532425	geckodriver	INFO	Listening on 127.0.0.1:50327
+1596316535392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileMppfrz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596316542727	Marionette	INFO	Listening on port 50336
+1596316543001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1596316725760	Marionette	INFO	Stopped listening on port 50336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ind profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596316648357	Marionette	INFO	Listening on port 50486
+1596316649094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+1596316725761	Marionette	INFO	Stopped listening on port 50486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5303: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1596317100250	geckodriver	INFO	Listening on 127.0.0.1:50988
+1596317103259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileevbUyZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596317110628	Marionette	INFO	Listening on port 50996
+1596317111130	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+[Parent 3916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1596317418185	Marionette	INFO	Stopped listening on port 50996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sion state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596317172797	Marionette	INFO	Listening on port 51096
+1596317173007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+1596317179469	Marionette	INFO	Stopped listening on port 51096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596317211042	geckodriver	INFO	Listening on 127.0.0.1:51186
+1596317214069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofile6UJG8Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596317218971	Marionette	INFO	Listening on port 51194
+1596317218980	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+[Parent 11668, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+1596317231966	Marionette	INFO	Stopped listening on port 51194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596317457067	geckodriver	INFO	Listening on 127.0.0.1:51363
+1596317460093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileSDiQWf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596317466677	Marionette	INFO	Listening on port 51373
+1596317466721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+1596317473487	Marionette	INFO	Stopped listening on port 51373
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10572, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1596317664196	geckodriver	INFO	Listening on 127.0.0.1:51680
+1596317667219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileu9bpco"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596317672468	Marionette	INFO	Listening on port 51690
+1596317672627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+1596317724147	Marionette	INFO	Stopped listening on port 51690
+[Parent 6068, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1596317729900	geckodriver	INFO	Listening on 127.0.0.1:51777
+1596317732914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofile2Bq2hQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596317737723	Marionette	INFO	Listening on port 51787
+1596317737891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=10795723506538053 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1596317879085	Marionette	INFO	Stopped listening on port 51787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596357663255	geckodriver	INFO	Listening on 127.0.0.1:49829
+1596357666454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofile0dfa43"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596357685057	Marionette	INFO	Listening on port 49838
+1596357685513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?i=33854964748757477&c=75, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?i=33854964748757477&c=100, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?i=33854964748757477&c=75, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/Loader.aspx?ParTree=15131F, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=18599703143458101, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=18599703143458101, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=18599703143458101 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=18599703143458101 line 1 > injectedScript, line 4: unreachable code after return statement
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:417:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:417:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+[Child 9956, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1596361651506	Marionette	INFO	Stopped listening on port 49838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596365006306	geckodriver	INFO	Listening on 127.0.0.1:52483
+1596365012296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileDzeZ7R"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: SearchEngineSelector: (new AbortError("IndexedDB: main/search-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 24))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: AbortError: IndexedDB: main/anti-tracking-url-decoration list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+[Parent 4676, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/SearchService.jsm, line 474: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 193: Error: Data is not ready.
+1596365136329	geckodriver	INFO	Listening on 127.0.0.1:52586
+1596365139071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofile6uaTMS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1596365149014	Marionette	INFO	Listening on port 52596
+1596365149515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+1596365157465	Marionette	INFO	Stopped listening on port 52596
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596365222041	geckodriver	INFO	Listening on 127.0.0.1:52728
+1596365225070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AZ-RED~1\\AppData\\Local\\Temp\\rust_mozprofileNyCcwL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596365230567	Marionette	INFO	Listening on port 52740
+1596365230598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 4: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 1: unreachable code after return statement
+JavaScript warning: http://www.tsetmc.com/loader.aspx?ParTree=151311&i=33854964748757477 line 1 > injectedScript, line 4: unreachable code after return statement
+JavaScript warning: http://77.238.123.174/Loader.aspx?ParTree=15, line 4: unreachable code after return statement
+[Parent 8296, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8296, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8296, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596366959245	Marionette	INFO	Stopped listening on port 52740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
